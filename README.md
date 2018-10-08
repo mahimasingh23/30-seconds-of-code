@@ -244,11 +244,8 @@ average(1, 2, 3);
 * [`toggleClass`](#toggleclass)
 * [`triggerEvent`](#triggerevent)
 * [`UUIDGeneratorBrowser`](#uuidgeneratorbrowser)
-
 </details>
-
 ### ⏱️ Date
-
 <details>
 <summary>View contents</summary>
 
@@ -267,7 +264,6 @@ average(1, 2, 3);
 </details>
 
 ### 🎛️ Function
-
 <details>
 <summary>View contents</summary>
 
@@ -296,7 +292,6 @@ average(1, 2, 3);
 * [`uncurry`](#uncurry)
 * [`unfold`](#unfold)
 * [`when`](#when)
-
 </details>
 
 ### ➗ Math
@@ -367,7 +362,6 @@ average(1, 2, 3);
 </details>
 
 ### 🗃️ Object
-
 <details>
 <summary>View contents</summary>
 
